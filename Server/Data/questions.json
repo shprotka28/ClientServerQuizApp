@@ -1,0 +1,1172 @@
+[
+    {
+        "id": 0,
+        "category": "biology",
+        "rank": 0,
+        "text": "What is the rarest human blood type?",
+        "possibleAnswers": [
+            "A+",
+            "O-",
+            "AB+",
+            "AB-"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 1,
+        "category": "biology",
+        "rank": 0,
+        "text": "The four most common elements that make up all living things are carbon, hydrogen -",
+        "possibleAnswers": [
+            "nitrogen, and iron",
+            "oxygen, and nitrogen",
+            "calcium, and phosphorus",
+            "oxygen, and iron"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 2,
+        "category": "biology",
+        "rank": 0,
+        "text": "Which foods are high in proteins?",
+        "possibleAnswers": [
+            "Meats, cheeses, milk, eggs",
+            "Butter, oil, lard",
+            "Breads, pasta, grains",
+            "Breads, pasta, grains"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 3,
+        "category": "biology",
+        "rank": 0,
+        "text": "Which biomolecule form muscles?",
+        "possibleAnswers": [
+            "Nucleic Acid",
+            "Carbohydrates",
+            "Proteins",
+            "Lipids"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 4,
+        "category": "biology",
+        "rank": 0,
+        "text": "What part of the brain is in charge of thinking and memory?",
+        "possibleAnswers": [
+            "Cerebrum",
+            "Medulla oblongata",
+            "Cerebellum",
+            "Groove"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 5,
+        "category": "biology",
+        "rank": 0,
+        "text": "What is the name of the process through which plants transform sunlight, water and carbon dioxide into oxygen and energy?",
+        "possibleAnswers": [
+            "Grazing",
+            "Photosynthesis",
+            "Respiration",
+            "Photomorphogenesis"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 6,
+        "category": "biology",
+        "rank": 0,
+        "text": "Which cells in the human body are mostly produced in bone marrow?",
+        "possibleAnswers": [
+            "Blood cells",
+            "Nerve cells",
+            "Bone cells",
+            "Muscle cells"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 7,
+        "category": "biology",
+        "rank": 0,
+        "text": "What is the smallest bone in the human body?",
+        "possibleAnswers": [
+            "Femur",
+            "Distal phalanges",
+            "Nasal bone",
+            "Stapes"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 8,
+        "category": "biology",
+        "rank": 0,
+        "text": "What does the N stand for in the acronym DNA?",
+        "possibleAnswers": [
+            "Normal",
+            "Non",
+            "Nucleic",
+            "Nano"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 9,
+        "category": "biology",
+        "rank": 0,
+        "text": "Which part of the human body is responsible for producing insulin?",
+        "possibleAnswers": [
+            "Brain",
+            "Pancreas",
+            "Liver",
+            "Stomach"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 10,
+        "category": "biology",
+        "rank": 1,
+        "text": "Which blood vessel carries blood from all parts of the body to the heart?",
+        "possibleAnswers": [
+            "Aorta",
+            "Vena cava",
+            "Anterior cardiac vein",
+            "Right coronary artery"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 11,
+        "category": "biology",
+        "rank": 1,
+        "text": "Which blood vessel carries blood from the lungs to the heart?",
+        "possibleAnswers": [
+            "Pulmonary vein",
+            "Pulmonary artery",
+            "Hepatic artery",
+            "Hepatic vein"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 12,
+        "category": "biology",
+        "rank": 1,
+        "text": "A group of cells that gives off or secretes chemicals is called what?",
+        "possibleAnswers": [
+            "Artery",
+            "Vein",
+            "Gland",
+            "Pore"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 13,
+        "category": "biology",
+        "rank": 1,
+        "text": "The circulatory system is composed of...",
+        "possibleAnswers": [
+            "The heart, the brain, and the lungs",
+            "The brain, the heart, and the blood vessels",
+            "The heart, blood, and blood vessels",
+            "The heart, the brain, and the lungs"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 14,
+        "category": "biology",
+        "rank": 1,
+        "text": "Movement of cell against concentration gradient is called",
+        "possibleAnswers": [
+            "Osmosis",
+            "Active transport",
+            "Diffusion",
+            "Passive transport"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 15,
+        "category": "biology",
+        "rank": 1,
+        "text": "Which of the following is not a function of bones?",
+        "possibleAnswers": [
+            "Place for muscle attachment",
+            "Protection of vital organs",
+            "Secretion of hormones for calcium regulation in blood and bones",
+            "Production of blood corpuscles"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 16,
+        "category": "biology",
+        "rank": 1,
+        "text": "The enzyme lactase will break down the sugar lactose into which of the following components?",
+        "possibleAnswers": [
+            "Amino acids",
+            "Nucleic acids",
+            "Monosaccharides",
+            "Phospholipids"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 17,
+        "category": "biology",
+        "rank": 1,
+        "text": "Enzymes are considered to be",
+        "possibleAnswers": [
+            "Lipids",
+            "Protein",
+            "Carbohydrate",
+            "Nucleic Acid"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 18,
+        "category": "biology",
+        "rank": 1,
+        "text": "From where do plants get most of their nutrients?",
+        "possibleAnswers": [
+            "Light",
+            "All the above",
+            "Atmosphere",
+            "Soil"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 19,
+        "category": "biology",
+        "rank": 1,
+        "text": "Benthos is the collective name of plants and animals that live on a … bottom?",
+        "possibleAnswers": [
+            "River",
+            "Ocean",
+            "Lake",
+            "Sea"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 20,
+        "category": "biology",
+        "rank": 2,
+        "text": "What is the basic unit of classification in biology?",
+        "possibleAnswers": [
+            "Class",
+            "Family",
+            "Species",
+            "Non of the above"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 21,
+        "category": "biology",
+        "rank": 2,
+        "text": "Neurospora is used as genetic material because",
+        "possibleAnswers": [
+            "it has short life cycle of 10 days",
+            "the product of single meiosis can be easily analysed",
+            "meiotic products are linearly arranged in the form of ordered tetrads",
+            "is a diploid fungus"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 22,
+        "category": "biology",
+        "rank": 2,
+        "text": "Plants hormone that induces cell division is",
+        "possibleAnswers": [
+            "Auxins",
+            "Gibberellins",
+            "Kinins",
+            "Domins"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 23,
+        "category": "biology",
+        "rank": 2,
+        "text": "Placenta is the structure formed",
+        "possibleAnswers": [
+            "by the union of foetal and uterine tissue",
+            "by foetus only",
+            "by fusion of germ layers",
+            "None of these"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 24,
+        "category": "biology",
+        "rank": 2,
+        "text": "O2 released in the process of photosynthesis comes from",
+        "possibleAnswers": [
+            "CO2",
+            "water",
+            "sugar",
+            "pyruvic acid"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 25,
+        "category": "biology",
+        "rank": 2,
+        "text": "Potato is a modified form (outgrowth) of",
+        "possibleAnswers": [
+            "Root",
+            "Stem",
+            "Fruit",
+            "Leaf"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 26,
+        "category": "biology",
+        "rank": 2,
+        "text": "Myopia is connected with",
+        "possibleAnswers": [
+            "Ears",
+            "Lungs",
+            "Eyes",
+            "None of these"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 27,
+        "category": "biology",
+        "rank": 2,
+        "text": "Our skin, when exposed to excess sunlight, becomes dark. This is because our skin pigments called",
+        "possibleAnswers": [
+            "Flavoxanthin",
+            "Melanin",
+            "Carotene",
+            "Xanthophyll"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 28,
+        "category": "biology",
+        "rank": 2,
+        "text": "Norepinephrine increases",
+        "possibleAnswers": [
+            "Respiration",
+            "Urine production",
+            "Saliva production",
+            "Blood pressure"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 29,
+        "category": "biology",
+        "rank": 2,
+        "text": "Organic Substances which, in very small amounts, control growth and development called",
+        "possibleAnswers": [
+            "Vitamins",
+            "Hormones",
+            "Enzymes",
+            "None of the above"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 30,
+        "category": "world history",
+        "rank": 0,
+        "text": "World War I began in which year?",
+        "possibleAnswers": [
+            "1923",
+            "1938",
+            "1917",
+            "1914"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 31,
+        "category": "world history",
+        "rank": 0,
+        "text": "Adolf Hitler was born in which country?",
+        "possibleAnswers": [
+            "France",
+            "Germany",
+            "Austria",
+            "Hungary"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 32,
+        "category": "world history",
+        "rank": 0,
+        "text": "Where was John F. Kennedy assassinated in?",
+        "possibleAnswers": [
+            "New York",
+            "Austin",
+            "Dallas",
+            "Miami"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 33,
+        "category": "world history",
+        "rank": 0,
+        "text": "The United States bought Alaska from which country?",
+        "possibleAnswers": [
+            "Canada",
+            "Russia",
+            "China",
+            "Japan"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 34,
+        "category": "world history",
+        "rank": 0,
+        "text": "Egyptian Civilization began to flourish around which of the following rivers?",
+        "possibleAnswers": [
+            "Congo river",
+            "Nile river",
+            "Niger river",
+            "Zambezi river"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 35,
+        "category": "world history",
+        "rank": 0,
+        "text": "Which of the following is the oldest civilization of the world?",
+        "possibleAnswers": [
+            "Indus Valley Civilization",
+            "Mesopotamian Civilization",
+            "Nile Valley Civilization",
+            "Chinese Civilization"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 36,
+        "category": "world history",
+        "rank": 0,
+        "text": "Who was the author of the United States Declaration of Independence?",
+        "possibleAnswers": [
+            "Thomas Jefferson",
+            "George Washington",
+            "Abraham Lincoln",
+            "Benjamin Franklin"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 37,
+        "category": "world history",
+        "rank": 0,
+        "text": "Which of the following were sent to preach Christianity to the world?",
+        "possibleAnswers": [
+            "Disciples",
+            "Priests",
+            "Bishops",
+            "Apostles"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 38,
+        "category": "world history",
+        "rank": 0,
+        "text": "Hitler invaded the Soviet Union due to which of the following reasons?",
+        "possibleAnswers": [
+            "He wanted more land for the Germans to live on",
+            "He wanted control of Moscow",
+            "He wanted control of the country’s oil and wheat fields",
+            "None of the above"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 39,
+        "category": "world history",
+        "rank": 0,
+        "text": "In which year did World War 2 began",
+        "possibleAnswers": [
+            "1927",
+            "1939",
+            "1944",
+            "1947"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 40,
+        "category": "world history",
+        "rank": 1,
+        "text": "The first news paper in the world was started by?",
+        "possibleAnswers": [
+            "Japan",
+            "USA",
+            "Germany",
+            "India"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 41,
+        "category": "world history",
+        "rank": 1,
+        "text": "Which of the following were the first inventors of the Mariner’s compass?",
+        "possibleAnswers": [
+            "Spainish",
+            "Greek",
+            "Chinese",
+            "Persian"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 42,
+        "category": "world history",
+        "rank": 1,
+        "text": "Mona Lisa was painted by which of the following?",
+        "possibleAnswers": [
+            "Da Vinci",
+            "Van Eyck",
+            "Donatello",
+            "Michalengalo"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 43,
+        "category": "world history",
+        "rank": 1,
+        "text": "The United Nations was formed in which of the following year?",
+        "possibleAnswers": [
+            "1918",
+            "1945",
+            "1947",
+            "1950"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 44,
+        "category": "world history",
+        "rank": 1,
+        "text": "Which of the following was the leader of England during World War II?",
+        "possibleAnswers": [
+            "Benito Mussolini",
+            "Emperor Hirohito",
+            "Winston Churchill",
+            "None of these"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 45,
+        "category": "world history",
+        "rank": 1,
+        "text": "In 1912, which famous human made sea vessel sunk?",
+        "possibleAnswers": [
+            "Le Raymound",
+            "Titanic",
+            "Hans Hedtoft",
+            "Albatross"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 46,
+        "category": "world history",
+        "rank": 1,
+        "text": "How many republics made up the former Soviet Union?",
+        "possibleAnswers": [
+            "15",
+            "12",
+            "20",
+            "10"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 47,
+        "category": "world history",
+        "rank": 1,
+        "text": "Which of these cities was NOT founded by the Romans?",
+        "possibleAnswers": [
+            "Alexandria",
+            "Cologne",
+            "Rome",
+            "London"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 48,
+        "category": "world history",
+        "rank": 1,
+        "text": "The disease that ravaged and killed a third of Europe's population in the 14th century is known as:",
+        "possibleAnswers": [
+            "The White Death",
+            "Plague (Black Death)",
+            "Smallpox",
+            "Malaria"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 49,
+        "category": "world history",
+        "rank": 1,
+        "text": "Who was the first Western explorer to reach China?",
+        "possibleAnswers": [
+            "Magellan",
+            "Cook",
+            "Marco Polo",
+            "Sir Francis Drake"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 50,
+        "category": "world history",
+        "rank": 2,
+        "text": "The ancient Egyptians used to sleep on pillows made of:",
+        "possibleAnswers": [
+            "Stones",
+            "Gold",
+            "Cotton",
+            "Iron"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 51,
+        "category": "world history",
+        "rank": 2,
+        "text": "What was the shortest war in human history?",
+        "possibleAnswers": [
+            "The war between Japan and China",
+            "The war between France and Russia",
+            "The war between England and Zanzibar",
+            "The war between Bulgaria and Turkey"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 52,
+        "category": "world history",
+        "rank": 2,
+        "text": "The construction of the Berlin Wall begin in what year?",
+        "possibleAnswers": [
+            "1962",
+            "1961",
+            "1960",
+            "1963"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 53,
+        "category": "world history",
+        "rank": 2,
+        "text": "In which year was the Berlin Wall torn down?",
+        "possibleAnswers": [
+            "1989",
+            "1990",
+            "1987",
+            "1991"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 54,
+        "category": "world history",
+        "rank": 2,
+        "text": "The ancient city of Rome was built on how many hills?",
+        "possibleAnswers": [
+            "5",
+            "8",
+            "9",
+            "7"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 55,
+        "category": "world history",
+        "rank": 2,
+        "text": "Where were the first modern Olympics held?",
+        "possibleAnswers": [
+            "Germany",
+            "Itanly",
+            "England",
+            "Greece"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 56,
+        "category": "world history",
+        "rank": 2,
+        "text": "How many U.S. presidents have been assassinated?",
+        "possibleAnswers": [
+            "1",
+            "4",
+            "3",
+            "2"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 57,
+        "category": "world history",
+        "rank": 2,
+        "text": "Which country did England send convicts to between 1788 and 1868?",
+        "possibleAnswers": [
+            "New Zealand",
+            "Brazil",
+            "Australia",
+            "India"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 58,
+        "category": "world history",
+        "rank": 2,
+        "text": "Which civilization was centered around the city of Tenochtitlan?",
+        "possibleAnswers": [
+            "Maya",
+            "Aztec",
+            "Olmec",
+            "Toltec"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 59,
+        "category": "world history",
+        "rank": 2,
+        "text": "The Cold War was between the United States and what other world power?",
+        "possibleAnswers": [
+            "Russia",
+            "China",
+            "France",
+            "United Kingdom"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 60,
+        "category": "geography",
+        "rank": 0,
+        "text": "Which is the tallest mountain in the world?",
+        "possibleAnswers": [
+            "Everest",
+            "Olympus",
+            "Pyrenees",
+            "Pirin"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 61,
+        "category": "geography",
+        "rank": 0,
+        "text": "Which is the latitude that runs through the centre of the Earth?",
+        "possibleAnswers": [
+            "Degrees",
+            "Parallel",
+            "Equator",
+            "Hemisphere"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 62,
+        "category": "geography",
+        "rank": 0,
+        "text": "What is the names of the biggest oceans of the world?",
+        "possibleAnswers": [
+            "Southern Ocean",
+            "Atlantic Ocean",
+            "Pacific Ocean",
+            "Indian Ocean"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 63,
+        "category": "geography",
+        "rank": 0,
+        "text": "Which country has the highest population?",
+        "possibleAnswers": [
+            "China",
+            "Africa",
+            "Japan",
+            "United States of America"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 64,
+        "category": "geography",
+        "rank": 0,
+        "text": "Which is the longest river in the world?",
+        "possibleAnswers": [
+            "Amazon River",
+            "The Nile",
+            "Colorado River",
+            "Mississippi"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 65,
+        "category": "geography",
+        "rank": 0,
+        "text": "Which is the largest desert in the world?",
+        "possibleAnswers": [
+            "Sahara Desert",
+            "Antarctic desert",
+            "Arctic Desert",
+            "Great Australian"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 66,
+        "category": "geography",
+        "rank": 0,
+        "text": "Which is the largest island in the world?",
+        "possibleAnswers": [
+            "The Bahamas",
+            "Madagascar",
+            "Greenland",
+            "Galapagos Islands"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 67,
+        "category": "geography",
+        "rank": 0,
+        "text": "Which is the coldest continent in the world?",
+        "possibleAnswers": [
+            "Antarctica",
+            "Asia",
+            "Africa",
+            "Europe"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 68,
+        "category": "geography",
+        "rank": 0,
+        "text": "Name the city that is located in two continents",
+        "possibleAnswers": [
+            "Moscow",
+            "Istanbul",
+            "Varna",
+            "New York"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 69,
+        "category": "geography",
+        "rank": 0,
+        "text": "Which is the world's smallest country?",
+        "possibleAnswers": [
+            "Latvia",
+            "San Marino",
+            "Melnik",
+            "Vatican City"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 70,
+        "category": "geography",
+        "rank": 1,
+        "text": "What is the only country that borders the United Kingdom?",
+        "possibleAnswers": [
+            "Ireland",
+            "Sweden",
+            "Denmark",
+            "Scotland"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 71,
+        "category": "geography",
+        "rank": 1,
+        "text": "Ninety percent of the Earth’s population lives in which hemisphere?",
+        "possibleAnswers": [
+            "The Northern Hemisphere",
+            "The Southern Hemisphere",
+            "The Eastern Hemisphere",
+            "The Western Hemisphere"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 72,
+        "category": "geography",
+        "rank": 1,
+        "text": " In which country would you find the city of Dresden?",
+        "possibleAnswers": [
+            "Germany",
+            "Denmark",
+            "Sweden",
+            "France"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 73,
+        "category": "geography",
+        "rank": 1,
+        "text": "Which is the largest country in the world?",
+        "possibleAnswers": [
+            "Sudan",
+            "Japan",
+            "Russia",
+            "United States of America"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 74,
+        "category": "geography",
+        "rank": 1,
+        "text": "How many time zones does Australia have?",
+        "possibleAnswers": [
+            "Three",
+            "One",
+            "Two",
+            "Four"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 75,
+        "category": "geography",
+        "rank": 1,
+        "text": "Which continent is in all four hemispheres?",
+        "possibleAnswers": [
+            "Africa",
+            "Europe",
+            "Asia",
+            "Antarctica"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 76,
+        "category": "geography",
+        "rank": 1,
+        "text": "What is the name and location of the world’s deepest lake?",
+        "possibleAnswers": [
+            "Baikal-Russia",
+            "Issyk-Kul-Kyrgyzstan",
+            "Vostok-Antartica",
+            "Tanganyika-Africa"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 77,
+        "category": "geography",
+        "rank": 1,
+        "text": "What is the official currency of India?",
+        "possibleAnswers": [
+            "Indian rupee",
+            "Indian dollar",
+            "Euro",
+            "Pound"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 78,
+        "category": "geography",
+        "rank": 1,
+        "text": "Which river flows through the Grand Canyon?",
+        "possibleAnswers": [
+            "Nile River",
+            "Colorado River",
+            "Mississippi River",
+            "Amazon River"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 79,
+        "category": "geography",
+        "rank": 1,
+        "text": "What is the largest U.S. state by area?",
+        "possibleAnswers": [
+            "New York",
+            "Texas",
+            "Alaska",
+            "Florida"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 80,
+        "category": "geography",
+        "rank": 2,
+        "text": "Sikkim, a region between Nepal and Bhutan, is part of what country?",
+        "possibleAnswers": [
+            "India",
+            "Russia",
+            "Japan",
+            "Thailand"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 81,
+        "category": "geography",
+        "rank": 2,
+        "text": "The Sea of Azov borders Ukraine and what other country?",
+        "possibleAnswers": [
+            "Poland",
+            "Bulgaria",
+            "Romania",
+            "Russia"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 82,
+        "category": "geography",
+        "rank": 2,
+        "text": "Which capital city, located about 20 miles from the Adriatic Sea, is a major industrial center for Albania?",
+        "possibleAnswers": [
+            "Tirana",
+            "Bari",
+            "Venice",
+            "Dubrovnik"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 83,
+        "category": "geography",
+        "rank": 2,
+        "text": "Iqaluit, which means “place of fish,” is the biggest community on the largest island in the Arctic Archipelago. Name this island.",
+        "possibleAnswers": [
+            "Queen Elizabeth Islands",
+            "Victoria Island",
+            "Banks Island",
+            "Baffin Island"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 84,
+        "category": "geography",
+        "rank": 2,
+        "text": "Because Earth bulges at the Equator, the point that is farthest from Earth’s center is the summit of a peak in Ecuador. Name this peak.",
+        "possibleAnswers": [
+            "Huascarán",
+            "Yerupajá",
+            "Chimborazo",
+            "Cotopaxi"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 85,
+        "category": "geography",
+        "rank": 2,
+        "text": "Name the eastern-most national capital city in Central America",
+        "possibleAnswers": [
+            "Panama City, Panama",
+            "San Jose, Costa Rica",
+            "Guatemala City",
+            "Managua, Nicaragua"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 86,
+        "category": "geography",
+        "rank": 2,
+        "text": "Do you know (roughly) the equatorial circumference of Earth?",
+        "possibleAnswers": [
+            "27 000 km",
+            "40 000 km",
+            "70 000 km",
+            "15 000 km"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 87,
+        "category": "geography",
+        "rank": 2,
+        "text": " In Iceland, you can walk across two tectonic plates, side by side. Which ones, exactly?",
+        "possibleAnswers": [
+            "Eurasian and North American",
+            "Eurasian and Antarctic",
+            "Eurasian and South American",
+            "Eurasian and Indo-Australian"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 88,
+        "category": "geography",
+        "rank": 2,
+        "text": "What is the age of the oldest fossil ever found?",
+        "possibleAnswers": [
+            "900 million years old",
+            "2 billion years old",
+            "Over 3.5 billion years old",
+            "300 million years old"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 89,
+        "category": "geography",
+        "rank": 2,
+        "text": "Do you know which continent Fiji and Papua New Guinea are on?",
+        "possibleAnswers": [
+            "Oceania (Australia)",
+            "Asia",
+            "South America",
+            "India"
+        ],
+        "correctAnswer": 0
+    }
+]
